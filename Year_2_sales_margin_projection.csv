@@ -1,0 +1,501 @@
+Portfolio,Geography,Category,Brand,Segment,Year_2_Sales,Year_2_Margin
+Hair/Body,North America,Hair,Brand A,Cream,8704.100274416847,1310.1268667076226
+Hair/Body,North America,Hair,Brand A,Shampoo,8547.41672230989,784.2752728719107
+Hair/Body,North America,Hair,Brand B,Shampoo,8781.993862908645,262.8846013934841
+Hair/Body,North America,Hair,Brand B,Body Wash,13700.545796918022,1103.8162969020186
+Hair/Body,North America,Hair,Brand C,Cream,1631.6202027346617,64.68332779504374
+Hair/Body,North America,Hair,Brand C,Soap,9866.216997895897,1757.6386263846744
+Hair/Body,North America,Hair,Brand D,Deodorant,6095.263989603107,282.3998504353159
+Hair/Body,North America,Hair,Brand D,Lotion,2029.7261730507325,45.078238235916004
+Hair/Body,North America,Hair,Brand E,Body Wash,15018.7093721249,1811.342511694135
+Hair/Body,North America,Hair,Brand E,Conditioner,3010.615082029037,265.7668177475511
+Hair/Body,North America,Body,Brand A,Cream,6130.340946866703,293.68789941049727
+Hair/Body,North America,Body,Brand A,Lotion,1789.7834951600014,32.09357505830029
+Hair/Body,North America,Body,Brand B,Cream,2101.6910176222955,129.26067409934942
+Hair/Body,North America,Body,Brand B,Deodorant,7090.995782594851,302.9420143164535
+Hair/Body,North America,Body,Brand C,Soap,9274.249489329997,171.32182824234667
+Hair/Body,North America,Body,Brand C,Shampoo,7179.4320820595985,616.4100916458266
+Hair/Body,North America,Body,Brand D,Lotion,7109.464220137005,390.3177024625431
+Hair/Body,North America,Body,Brand D,Body Wash,11579.439869323867,1355.2941515420828
+Hair/Body,North America,Body,Brand E,Deodorant,5071.710874589769,261.35018360406013
+Hair/Body,North America,Body,Brand E,Soap,8484.730907598616,300.73014728337984
+Hair/Body,North America,Fragrance,Brand A,Body Wash,4426.241312442273,104.47030219294844
+Hair/Body,North America,Fragrance,Brand A,Shampoo,4908.050541978348,484.2530999778795
+Hair/Body,North America,Fragrance,Brand B,Deodorant,7857.585922587951,246.7929248570514
+Hair/Body,North America,Fragrance,Brand B,Shampoo,6854.02278789137,281.5938828903005
+Hair/Body,North America,Fragrance,Brand C,Cream,8484.252666544968,628.6644026230632
+Hair/Body,North America,Fragrance,Brand C,Soap,7129.439853240547,878.2622947331956
+Hair/Body,North America,Fragrance,Brand D,Deodorant,10299.733392810498,443.61276989693886
+Hair/Body,North America,Fragrance,Brand D,Lotion,2698.6746518515874,106.78127202611205
+Hair/Body,North America,Fragrance,Brand E,Conditioner,11115.277904599405,1874.1005749489348
+Hair/Body,North America,Fragrance,Brand E,Shampoo,12007.57836233061,501.55184097784314
+Hair/Body,North America,Skincare,Brand A,Body Wash,3301.040537110528,538.5023269027057
+Hair/Body,North America,Skincare,Brand A,Shampoo,7268.373336665594,261.6320163281055
+Hair/Body,North America,Skincare,Brand B,Perfume,7946.233419195643,984.2479108650346
+Hair/Body,North America,Skincare,Brand B,Conditioner,13728.555502677342,1303.6610652525019
+Hair/Body,North America,Skincare,Brand C,Soap,8338.965888976416,1714.7079583586662
+Hair/Body,North America,Skincare,Brand C,Deodorant,6596.6213820099665,538.4349853779769
+Hair/Body,North America,Skincare,Brand D,Perfume,4989.650553366753,305.38191273909183
+Hair/Body,North America,Skincare,Brand D,Body Wash,8496.79853830187,287.9934776742518
+Hair/Body,North America,Skincare,Brand E,Perfume,14724.335485011665,1149.8256701950584
+Hair/Body,North America,Skincare,Brand E,Conditioner,8858.670755782587,299.16847034874075
+Hair/Body,Europe,Hair,Brand A,Shampoo,10073.692656506133,479.5252255970047
+Hair/Body,Europe,Hair,Brand A,Soap,6299.80240399515,436.67189281664463
+Hair/Body,Europe,Hair,Brand B,Soap,5487.454593146863,189.2872702380109
+Hair/Body,Europe,Hair,Brand B,Shampoo,2187.7206058846537,272.6226877955285
+Hair/Body,Europe,Hair,Brand C,Body Wash,3883.350768472094,321.69208138691675
+Hair/Body,Europe,Hair,Brand C,Lotion,6587.150678984425,330.2343435873341
+Hair/Body,Europe,Hair,Brand D,Lotion,9815.137559428451,381.9459771353607
+Hair/Body,Europe,Hair,Brand D,Deodorant,8664.911976798341,425.0738563295361
+Hair/Body,Europe,Hair,Brand E,Cream,6027.723945352643,101.5472058926722
+Hair/Body,Europe,Hair,Brand E,Lotion,9130.628998812437,261.1489686983316
+Hair/Body,Europe,Body,Brand A,Shampoo,6308.323488972879,407.37970833641265
+Hair/Body,Europe,Body,Brand A,Perfume,6051.633684248499,225.7697610826477
+Hair/Body,Europe,Body,Brand B,Soap,2927.2737274574383,132.3952875045163
+Hair/Body,Europe,Body,Brand B,Cream,2090.9672465316285,166.12353667806738
+Hair/Body,Europe,Body,Brand C,Lotion,9483.883661974385,617.4751933726217
+Hair/Body,Europe,Body,Brand C,Perfume,8388.8988707822,1116.20512572272
+Hair/Body,Europe,Body,Brand D,Deodorant,13039.621336664024,1294.3540149372886
+Hair/Body,Europe,Body,Brand D,Lotion,7201.598317606712,513.8324498464242
+Hair/Body,Europe,Body,Brand E,Conditioner,12146.895576871693,1085.0202420145054
+Hair/Body,Europe,Body,Brand E,Cream,8468.190901355307,903.1570727530166
+Hair/Body,Europe,Fragrance,Brand A,Cream,1991.4820072561174,313.50205551684456
+Hair/Body,Europe,Fragrance,Brand A,Deodorant,10039.93649680404,568.0530165483957
+Hair/Body,Europe,Fragrance,Brand B,Lotion,6079.4890987468425,660.415095757069
+Hair/Body,Europe,Fragrance,Brand B,Deodorant,8692.936134648498,1924.1393637109186
+Hair/Body,Europe,Fragrance,Brand C,Perfume,12625.931290787048,1003.448935233866
+Hair/Body,Europe,Fragrance,Brand C,Conditioner,5166.040143059661,125.91005694859078
+Hair/Body,Europe,Fragrance,Brand D,Cream,4824.557576906395,619.6940245592555
+Hair/Body,Europe,Fragrance,Brand D,Body Wash,12241.115276698125,399.17342701549734
+Hair/Body,Europe,Fragrance,Brand E,Body Wash,8440.428994046806,916.189125483874
+Hair/Body,Europe,Fragrance,Brand E,Perfume,9962.806689017532,335.7938694009294
+Hair/Body,Europe,Skincare,Brand A,Shampoo,7226.721150112768,1108.4880152374271
+Hair/Body,Europe,Skincare,Brand A,Soap,3218.2532824048003,179.18976334164736
+Hair/Body,Europe,Skincare,Brand B,Soap,14451.841241095992,2744.24190115824
+Hair/Body,Europe,Skincare,Brand B,Perfume,7620.430120700875,359.39136604006615
+Hair/Body,Europe,Skincare,Brand C,Cream,5295.714834816577,384.5543708047429
+Hair/Body,Europe,Skincare,Brand C,Lotion,1408.9456475718014,115.80977783288573
+Hair/Body,Europe,Skincare,Brand D,Body Wash,11256.516984102233,2254.7040224237935
+Hair/Body,Europe,Skincare,Brand D,Lotion,3148.6575741393735,202.16127686214958
+Hair/Body,Europe,Skincare,Brand E,Cream,9927.569607303174,876.7949908052678
+Hair/Body,Europe,Skincare,Brand E,Conditioner,3961.7131897722343,107.903979578192
+Hair/Body,Asia,Hair,Brand A,Perfume,6713.615932185264,978.3017074350545
+Hair/Body,Asia,Hair,Brand A,Conditioner,4723.065942186768,167.4295335454621
+Hair/Body,Asia,Hair,Brand B,Perfume,8461.712177773466,309.3619977201794
+Hair/Body,Asia,Hair,Brand B,Soap,6700.888903839672,541.1790026789585
+Hair/Body,Asia,Hair,Brand C,Shampoo,2328.5042170835363,355.63832298358085
+Hair/Body,Asia,Hair,Brand C,Perfume,10193.670810348669,289.387570721152
+Hair/Body,Asia,Hair,Brand D,Conditioner,7307.672491208293,534.4070135880835
+Hair/Body,Asia,Hair,Brand D,Deodorant,9459.79715416247,414.96668058650073
+Hair/Body,Asia,Hair,Brand E,Deodorant,13625.654923961625,1745.7881316024414
+Hair/Body,Asia,Hair,Brand E,Body Wash,7502.057802418665,340.30295669703764
+Hair/Body,Asia,Body,Brand A,Conditioner,5493.094086173903,370.96390407757207
+Hair/Body,Asia,Body,Brand A,Perfume,7658.781009672227,453.1290084605192
+Hair/Body,Asia,Body,Brand B,Perfume,2065.301451311908,228.0207911534525
+Hair/Body,Asia,Body,Brand B,Lotion,6680.614981335882,630.9921915613418
+Hair/Body,Asia,Body,Brand C,Lotion,9482.191395144375,476.3028178343795
+Hair/Body,Asia,Body,Brand C,Perfume,8168.324726786181,336.92618432849946
+Hair/Body,Asia,Body,Brand D,Soap,4704.603954942478,509.0064342865566
+Hair/Body,Asia,Body,Brand D,Perfume,3543.168334599325,91.83989949880471
+Hair/Body,Asia,Body,Brand E,Shampoo,13927.145734087946,2965.9870260824778
+Hair/Body,Asia,Body,Brand E,Lotion,4841.062993076099,311.8037904535672
+Hair/Body,Asia,Fragrance,Brand A,Body Wash,10511.831501910056,967.8011934604751
+Hair/Body,Asia,Fragrance,Brand A,Lotion,9203.508703658596,448.10815296302053
+Hair/Body,Asia,Fragrance,Brand B,Shampoo,4543.327032596067,186.70237425990692
+Hair/Body,Asia,Fragrance,Brand B,Lotion,4355.302308551563,327.2229772139693
+Hair/Body,Asia,Fragrance,Brand C,Shampoo,5970.094794863193,413.70018354073926
+Hair/Body,Asia,Fragrance,Brand C,Deodorant,12297.801564285397,768.8619510621332
+Hair/Body,Asia,Fragrance,Brand D,Soap,8932.313530673417,223.95481279852217
+Hair/Body,Asia,Fragrance,Brand D,Shampoo,5785.874452431063,613.9514143816338
+Hair/Body,Asia,Fragrance,Brand E,Cream,2627.7042465060144,224.18970437898042
+Hair/Body,Asia,Fragrance,Brand E,Lotion,5018.4045957419075,243.56262631129255
+Hair/Body,Asia,Skincare,Brand A,Soap,8458.02679607344,237.62397441929954
+Hair/Body,Asia,Skincare,Brand A,Deodorant,10153.516202847197,273.6230768042826
+Hair/Body,Asia,Skincare,Brand B,Deodorant,3871.0219075713158,425.0885034657058
+Hair/Body,Asia,Skincare,Brand B,Lotion,7696.665639922436,407.2273380745988
+Hair/Body,Asia,Skincare,Brand C,Shampoo,2996.7216244636943,117.83756170593166
+Hair/Body,Asia,Skincare,Brand C,Cream,4801.48505790386,255.92908941701847
+Hair/Body,Asia,Skincare,Brand D,Soap,13978.325419230152,724.0902674538764
+Hair/Body,Asia,Skincare,Brand D,Cream,9602.889923833602,838.0667474393097
+Hair/Body,Asia,Skincare,Brand E,Shampoo,8136.542888359845,1749.0627538348563
+Hair/Body,Asia,Skincare,Brand E,Deodorant,2290.4546254915185,68.00713294923241
+Hair/Body,South America,Hair,Brand A,Conditioner,5094.651290572642,196.00412585455572
+Hair/Body,South America,Hair,Brand A,Perfume,4598.596122367028,395.4499356984287
+Hair/Body,South America,Hair,Brand B,Deodorant,3754.3682792269415,54.56924752159431
+Hair/Body,South America,Hair,Brand B,Body Wash,1555.6622820546634,125.72298329321421
+Hair/Body,South America,Hair,Brand C,Conditioner,1679.6631952330486,33.287875044700336
+Hair/Body,South America,Hair,Brand C,Shampoo,7060.126350965334,54.6087406716752
+Hair/Body,South America,Hair,Brand D,Conditioner,7955.519558057212,505.09731031563194
+Hair/Body,South America,Hair,Brand D,Cream,6683.728926486486,934.2704257631138
+Hair/Body,South America,Hair,Brand E,Deodorant,2772.0997628600576,172.1091974537961
+Hair/Body,South America,Hair,Brand E,Shampoo,2553.408020030754,184.25175583670517
+Hair/Body,South America,Body,Brand A,Deodorant,6982.4868711958925,328.3930954913977
+Hair/Body,South America,Body,Brand A,Perfume,6953.783667620087,1248.6360363687031
+Hair/Body,South America,Body,Brand B,Deodorant,7520.373557851149,953.3612592295914
+Hair/Body,South America,Body,Brand B,Soap,5703.267900884782,404.2497667300069
+Hair/Body,South America,Body,Brand C,Perfume,2205.10052565866,81.58363125333744
+Hair/Body,South America,Body,Brand C,Conditioner,2687.686423692277,234.91827191385354
+Hair/Body,South America,Body,Brand D,Soap,8594.214424686723,702.7972495831973
+Hair/Body,South America,Body,Brand D,Lotion,13015.30807091281,342.1519523085128
+Hair/Body,South America,Body,Brand E,Deodorant,6198.020441616811,507.73828364866216
+Hair/Body,South America,Body,Brand E,Conditioner,1733.7308739973994,166.05679899065026
+Hair/Body,South America,Fragrance,Brand A,Deodorant,12561.139036883102,1161.5031614293903
+Hair/Body,South America,Fragrance,Brand A,Lotion,11593.4482184538,276.6930178518319
+Hair/Body,South America,Fragrance,Brand B,Deodorant,3643.5246082961144,157.88632433586673
+Hair/Body,South America,Fragrance,Brand B,Lotion,11154.276903772927,476.191513967424
+Hair/Body,South America,Fragrance,Brand C,Cream,2233.8880393201152,168.45055482291667
+Hair/Body,South America,Fragrance,Brand C,Conditioner,1216.532649224661,88.25199771054805
+Hair/Body,South America,Fragrance,Brand D,Cream,12325.420616017605,2042.2391449868385
+Hair/Body,South America,Fragrance,Brand D,Soap,2946.4339962334498,169.945187140978
+Hair/Body,South America,Fragrance,Brand E,Conditioner,8008.443137006566,212.88099367989867
+Hair/Body,South America,Fragrance,Brand E,Shampoo,4618.070801945495,240.18874442390774
+Hair/Body,South America,Skincare,Brand A,Body Wash,7483.700838312323,1055.4498225055122
+Hair/Body,South America,Skincare,Brand A,Soap,7264.48609500594,424.7906028207687
+Hair/Body,South America,Skincare,Brand B,Lotion,9054.691885921427,197.9529484907207
+Hair/Body,South America,Skincare,Brand B,Cream,4258.6389554451625,239.8491385556329
+Hair/Body,South America,Skincare,Brand C,Body Wash,2670.981999476741,250.2391340801247
+Hair/Body,South America,Skincare,Brand C,Shampoo,7963.549652872676,1425.1553436653946
+Hair/Body,South America,Skincare,Brand D,Perfume,2239.9786782573005,192.83579725501036
+Hair/Body,South America,Skincare,Brand D,Deodorant,5724.6354023174945,557.2737829194691
+Hair/Body,South America,Skincare,Brand E,Conditioner,10464.581669800407,514.9856594275778
+Hair/Body,South America,Skincare,Brand E,Body Wash,7481.520330111904,624.035877933068
+Hair/Body,Africa,Hair,Brand A,Conditioner,10210.519591690516,269.97549304362326
+Hair/Body,Africa,Hair,Brand A,Shampoo,8520.003018278807,220.71012970553173
+Hair/Body,Africa,Hair,Brand B,Perfume,7257.473514189043,299.56967138460465
+Hair/Body,Africa,Hair,Brand B,Soap,11800.134497979941,618.9201905005276
+Hair/Body,Africa,Hair,Brand C,Shampoo,5521.394939580926,465.6264318573182
+Hair/Body,Africa,Hair,Brand C,Soap,11099.910506084958,720.5069215586415
+Hair/Body,Africa,Hair,Brand D,Cream,9773.65263410239,745.7788282191535
+Hair/Body,Africa,Hair,Brand D,Shampoo,7994.991440946823,284.6689110973302
+Hair/Body,Africa,Hair,Brand E,Deodorant,9004.568273331735,237.71029261072434
+Hair/Body,Africa,Hair,Brand E,Conditioner,3856.9863690669945,241.3213624004411
+Hair/Body,Africa,Body,Brand A,Conditioner,8387.257148488368,389.2282911600428
+Hair/Body,Africa,Body,Brand A,Perfume,8094.659204689415,324.62223657593483
+Hair/Body,Africa,Body,Brand B,Deodorant,4449.120847755272,264.37020916750237
+Hair/Body,Africa,Body,Brand B,Shampoo,5537.238908736093,289.50013090736513
+Hair/Body,Africa,Body,Brand C,Shampoo,7796.474977843714,473.27324680556484
+Hair/Body,Africa,Body,Brand C,Deodorant,8981.15317865983,836.4616622724419
+Hair/Body,Africa,Body,Brand D,Perfume,9465.994937799876,714.5748792225824
+Hair/Body,Africa,Body,Brand D,Lotion,11638.193936567492,593.9818608823593
+Hair/Body,Africa,Body,Brand E,Perfume,6308.059318567166,358.5740687666894
+Hair/Body,Africa,Body,Brand E,Shampoo,10107.647319825715,970.2198463747482
+Hair/Body,Africa,Fragrance,Brand A,Perfume,14713.637958553398,2048.1958441963016
+Hair/Body,Africa,Fragrance,Brand A,Lotion,3210.538147401232,93.60300510381144
+Hair/Body,Africa,Fragrance,Brand B,Perfume,2947.125492993454,245.19757245440934
+Hair/Body,Africa,Fragrance,Brand B,Lotion,12711.055393843582,412.1461304192297
+Hair/Body,Africa,Fragrance,Brand C,Deodorant,3757.292990579993,54.56905949201564
+Hair/Body,Africa,Fragrance,Brand C,Cream,10806.71500117704,701.2548879814542
+Hair/Body,Africa,Fragrance,Brand D,Perfume,4005.892347264573,82.97904097287139
+Hair/Body,Africa,Fragrance,Brand D,Conditioner,3203.5212377470903,145.3626841010838
+Hair/Body,Africa,Fragrance,Brand E,Perfume,11723.106856983419,580.9968373555897
+Hair/Body,Africa,Fragrance,Brand E,Shampoo,5115.258643915475,509.8420976376071
+Hair/Body,Africa,Skincare,Brand A,Cream,14207.093827912335,1253.363435525913
+Hair/Body,Africa,Skincare,Brand A,Perfume,1319.230449552362,50.18866256826036
+Hair/Body,Africa,Skincare,Brand B,Perfume,3005.948823184333,142.4013918587512
+Hair/Body,Africa,Skincare,Brand B,Body Wash,2625.245095283208,36.54665211268783
+Hair/Body,Africa,Skincare,Brand C,Perfume,6494.727720807907,208.86475864335878
+Hair/Body,Africa,Skincare,Brand C,Lotion,996.1557175929398,86.9158261684454
+Hair/Body,Africa,Skincare,Brand D,Shampoo,2328.586255410941,100.90733993434323
+Hair/Body,Africa,Skincare,Brand D,Cream,1332.0981680586458,96.91131942666874
+Hair/Body,Africa,Skincare,Brand E,Shampoo,4392.983024579858,90.66690306897716
+Hair/Body,Africa,Skincare,Brand E,Deodorant,9390.516951331747,193.27760383508956
+CC/Fragrances,North America,Hair,Brand A,Body Wash,7385.187990439802,675.6171663712406
+CC/Fragrances,North America,Hair,Brand A,Cream,9594.502242584416,879.1432464059313
+CC/Fragrances,North America,Hair,Brand B,Lotion,12232.68627482537,533.8849687071211
+CC/Fragrances,North America,Hair,Brand B,Body Wash,5275.469295977274,51.391068828152825
+CC/Fragrances,North America,Hair,Brand C,Cream,11463.730576039143,1391.3211884232874
+CC/Fragrances,North America,Hair,Brand C,Body Wash,12352.441943692176,252.14686445348946
+CC/Fragrances,North America,Hair,Brand D,Conditioner,6402.135224535457,1064.9160625097863
+CC/Fragrances,North America,Hair,Brand D,Body Wash,11360.923918484099,583.674888177151
+CC/Fragrances,North America,Hair,Brand E,Body Wash,7142.498574754889,953.047372595507
+CC/Fragrances,North America,Hair,Brand E,Conditioner,6085.475482550793,108.46174547970274
+CC/Fragrances,North America,Body,Brand A,Body Wash,5854.797198745243,216.94268219448145
+CC/Fragrances,North America,Body,Brand A,Lotion,12661.988322170953,1024.2551245545449
+CC/Fragrances,North America,Body,Brand B,Conditioner,11729.952681203285,454.20454013587425
+CC/Fragrances,North America,Body,Brand B,Soap,7719.186466938237,991.7319702951745
+CC/Fragrances,North America,Body,Brand C,Body Wash,8808.610996999027,628.290021379937
+CC/Fragrances,North America,Body,Brand C,Cream,7095.453235812988,233.4013775280176
+CC/Fragrances,North America,Body,Brand D,Perfume,8128.150684006811,420.3272240400732
+CC/Fragrances,North America,Body,Brand D,Conditioner,4924.106420932687,226.29764276513157
+CC/Fragrances,North America,Body,Brand E,Soap,5771.236977892216,337.42488761850626
+CC/Fragrances,North America,Body,Brand E,Shampoo,1769.5145949844402,48.79450532669499
+CC/Fragrances,North America,Fragrance,Brand A,Conditioner,10947.338719438534,1225.031226580443
+CC/Fragrances,North America,Fragrance,Brand A,Deodorant,4254.0805570468,159.73180464432642
+CC/Fragrances,North America,Fragrance,Brand B,Cream,5927.6574699474895,924.9568042058906
+CC/Fragrances,North America,Fragrance,Brand B,Shampoo,9749.490428504047,320.6523330480948
+CC/Fragrances,North America,Fragrance,Brand C,Cream,1305.3489591080458,35.39792567873048
+CC/Fragrances,North America,Fragrance,Brand C,Conditioner,9972.337196486782,622.406273758219
+CC/Fragrances,North America,Fragrance,Brand D,Conditioner,2785.2303394489018,222.88276670693384
+CC/Fragrances,North America,Fragrance,Brand D,Lotion,5491.8499714621485,475.44014493018045
+CC/Fragrances,North America,Fragrance,Brand E,Perfume,1792.9812503702485,321.6150297319106
+CC/Fragrances,North America,Fragrance,Brand E,Conditioner,11898.215708002941,600.2033043914059
+CC/Fragrances,North America,Skincare,Brand A,Soap,10570.765985336518,871.8020381018415
+CC/Fragrances,North America,Skincare,Brand A,Lotion,12459.577544648202,177.85286536366402
+CC/Fragrances,North America,Skincare,Brand B,Body Wash,5518.510086362592,308.3997397055918
+CC/Fragrances,North America,Skincare,Brand B,Conditioner,3634.9664065499524,190.01997906694592
+CC/Fragrances,North America,Skincare,Brand C,Cream,2363.9607486132695,155.13344852034507
+CC/Fragrances,North America,Skincare,Brand C,Lotion,5365.643056573471,384.9954911144192
+CC/Fragrances,North America,Skincare,Brand D,Soap,9127.720516175164,444.0433474334788
+CC/Fragrances,North America,Skincare,Brand D,Cream,1978.3074316651446,166.93519419403742
+CC/Fragrances,North America,Skincare,Brand E,Body Wash,4815.255836092358,391.05481493699983
+CC/Fragrances,North America,Skincare,Brand E,Conditioner,5213.197496389487,295.6594436720097
+CC/Fragrances,Europe,Hair,Brand A,Body Wash,3307.384781598817,207.34987531586017
+CC/Fragrances,Europe,Hair,Brand A,Shampoo,9961.26508699018,672.6824938619632
+CC/Fragrances,Europe,Hair,Brand B,Soap,6845.870847560397,930.9771639366413
+CC/Fragrances,Europe,Hair,Brand B,Body Wash,2790.2554113354045,44.12856001319727
+CC/Fragrances,Europe,Hair,Brand C,Conditioner,4575.000846274089,447.06054644076914
+CC/Fragrances,Europe,Hair,Brand C,Deodorant,5015.496837183897,118.11425168980811
+CC/Fragrances,Europe,Hair,Brand D,Perfume,5569.488722887005,108.07513444132863
+CC/Fragrances,Europe,Hair,Brand D,Body Wash,7764.199349651917,217.34001196171002
+CC/Fragrances,Europe,Hair,Brand E,Body Wash,9540.557971266799,977.9984226740893
+CC/Fragrances,Europe,Hair,Brand E,Perfume,7421.214297894562,117.67925778386156
+CC/Fragrances,Europe,Body,Brand A,Soap,3854.347880387791,353.6117116211163
+CC/Fragrances,Europe,Body,Brand A,Cream,7369.395271364263,355.65717828304975
+CC/Fragrances,Europe,Body,Brand B,Cream,11290.340124655479,673.8421694490147
+CC/Fragrances,Europe,Body,Brand B,Perfume,4041.6764134635628,610.6087167772033
+CC/Fragrances,Europe,Body,Brand C,Conditioner,6928.528566916434,455.2580499528633
+CC/Fragrances,Europe,Body,Brand C,Perfume,5932.611269820935,1302.9457976470649
+CC/Fragrances,Europe,Body,Brand D,Lotion,8064.194278348574,808.9237062774325
+CC/Fragrances,Europe,Body,Brand D,Deodorant,3772.1711166262176,148.60317080339212
+CC/Fragrances,Europe,Body,Brand E,Body Wash,12395.667121082972,331.24167479447897
+CC/Fragrances,Europe,Body,Brand E,Conditioner,7977.623338139285,913.1848417658085
+CC/Fragrances,Europe,Fragrance,Brand A,Shampoo,4688.9224952130235,251.8534193304629
+CC/Fragrances,Europe,Fragrance,Brand A,Deodorant,9360.006539490312,1206.383743960158
+CC/Fragrances,Europe,Fragrance,Brand B,Shampoo,11360.580217888348,407.18371070806126
+CC/Fragrances,Europe,Fragrance,Brand B,Body Wash,10920.30291335331,1163.6919971558132
+CC/Fragrances,Europe,Fragrance,Brand C,Conditioner,3468.6299096763837,500.3546236070416
+CC/Fragrances,Europe,Fragrance,Brand C,Soap,1328.3784444664975,82.34699635880582
+CC/Fragrances,Europe,Fragrance,Brand D,Deodorant,5382.288638364164,224.13769264500965
+CC/Fragrances,Europe,Fragrance,Brand D,Cream,9611.486536870627,417.87086293032763
+CC/Fragrances,Europe,Fragrance,Brand E,Cream,3178.1258089865023,200.26094036291522
+CC/Fragrances,Europe,Fragrance,Brand E,Body Wash,4518.747374291671,360.6368157877445
+CC/Fragrances,Europe,Skincare,Brand A,Deodorant,3938.998087801076,203.8689897985301
+CC/Fragrances,Europe,Skincare,Brand A,Soap,5821.797121328828,287.64914143954877
+CC/Fragrances,Europe,Skincare,Brand B,Soap,10685.471903977754,381.1656719400866
+CC/Fragrances,Europe,Skincare,Brand B,Shampoo,5077.501202599001,288.0151122235367
+CC/Fragrances,Europe,Skincare,Brand C,Shampoo,4166.696862550077,422.69530181481775
+CC/Fragrances,Europe,Skincare,Brand C,Conditioner,10558.040801043668,286.54843771999936
+CC/Fragrances,Europe,Skincare,Brand D,Lotion,6810.069208668251,946.7852725451364
+CC/Fragrances,Europe,Skincare,Brand D,Cream,4250.943381317147,110.06592172229712
+CC/Fragrances,Europe,Skincare,Brand E,Deodorant,12057.429011387301,1307.202925868472
+CC/Fragrances,Europe,Skincare,Brand E,Body Wash,9484.873871595948,423.8351728821545
+CC/Fragrances,Asia,Hair,Brand A,Perfume,3749.8387457065296,188.86991036023431
+CC/Fragrances,Asia,Hair,Brand A,Body Wash,1990.3728522513022,223.18199757442696
+CC/Fragrances,Asia,Hair,Brand B,Perfume,9147.654905794447,495.08859406030587
+CC/Fragrances,Asia,Hair,Brand B,Shampoo,11966.93555158813,985.4759436615017
+CC/Fragrances,Asia,Hair,Brand C,Cream,12726.799727654641,951.1181911832674
+CC/Fragrances,Asia,Hair,Brand C,Body Wash,14030.313668067574,944.3067348566095
+CC/Fragrances,Asia,Hair,Brand D,Perfume,3214.330960613539,354.60206391751916
+CC/Fragrances,Asia,Hair,Brand D,Deodorant,5275.062120896663,67.17168429863035
+CC/Fragrances,Asia,Hair,Brand E,Body Wash,5071.676644603834,237.13942465426103
+CC/Fragrances,Asia,Hair,Brand E,Shampoo,7663.792969633273,354.8090868068267
+CC/Fragrances,Asia,Body,Brand A,Shampoo,3715.6779148484566,614.6341067726412
+CC/Fragrances,Asia,Body,Brand A,Lotion,2308.71764782567,158.88861156567037
+CC/Fragrances,Asia,Body,Brand B,Deodorant,4917.559242692419,243.23727951443456
+CC/Fragrances,Asia,Body,Brand B,Soap,9997.885749936151,802.9539921939597
+CC/Fragrances,Asia,Body,Brand C,Conditioner,1572.0324106913251,92.00660980434198
+CC/Fragrances,Asia,Body,Brand C,Deodorant,10133.350792018191,473.3113082922469
+CC/Fragrances,Asia,Body,Brand D,Perfume,12294.675668610447,908.5330559397489
+CC/Fragrances,Asia,Body,Brand D,Soap,4251.136142279888,142.1631311116869
+CC/Fragrances,Asia,Body,Brand E,Conditioner,9127.910915388082,699.9009119358109
+CC/Fragrances,Asia,Body,Brand E,Body Wash,4890.473040158286,236.52069923293965
+CC/Fragrances,Asia,Fragrance,Brand A,Conditioner,3613.394470396536,100.18324770989688
+CC/Fragrances,Asia,Fragrance,Brand A,Shampoo,10462.229806297897,829.9984772999743
+CC/Fragrances,Asia,Fragrance,Brand B,Shampoo,13249.66148269786,2390.028372694234
+CC/Fragrances,Asia,Fragrance,Brand B,Cream,1480.613168419783,141.71221159992078
+CC/Fragrances,Asia,Fragrance,Brand C,Cream,1182.1380689940418,111.3943280056887
+CC/Fragrances,Asia,Fragrance,Brand C,Shampoo,6316.214711860919,221.98401602905233
+CC/Fragrances,Asia,Fragrance,Brand D,Shampoo,3486.5186074537482,279.24534102784065
+CC/Fragrances,Asia,Fragrance,Brand D,Conditioner,10144.04767748156,185.65086892476322
+CC/Fragrances,Asia,Fragrance,Brand E,Shampoo,12434.260345097022,714.2594687503037
+CC/Fragrances,Asia,Fragrance,Brand E,Body Wash,6985.825872205681,190.3627249948256
+CC/Fragrances,Asia,Skincare,Brand A,Perfume,4463.672985828778,715.3378865003359
+CC/Fragrances,Asia,Skincare,Brand A,Shampoo,5119.413754177146,375.9756771301654
+CC/Fragrances,Asia,Skincare,Brand B,Deodorant,2796.6310305223433,218.3489778801104
+CC/Fragrances,Asia,Skincare,Brand B,Shampoo,12155.81019726537,1572.9194513185357
+CC/Fragrances,Asia,Skincare,Brand C,Cream,7194.440157561828,541.734803409899
+CC/Fragrances,Asia,Skincare,Brand C,Body Wash,4315.793233815664,250.286757706028
+CC/Fragrances,Asia,Skincare,Brand D,Deodorant,5334.02598305442,598.8056708088382
+CC/Fragrances,Asia,Skincare,Brand D,Lotion,4806.192399977972,718.5371521089837
+CC/Fragrances,Asia,Skincare,Brand E,Deodorant,6404.435057710614,224.2202533398423
+CC/Fragrances,Asia,Skincare,Brand E,Conditioner,9298.212952829568,524.5458516167924
+CC/Fragrances,South America,Hair,Brand A,Lotion,11083.489577595681,961.6624465710213
+CC/Fragrances,South America,Hair,Brand A,Body Wash,8374.83059894604,640.4977910006261
+CC/Fragrances,South America,Hair,Brand B,Deodorant,15984.028246069076,672.5255674752783
+CC/Fragrances,South America,Hair,Brand B,Body Wash,10480.905139710248,301.91272614354284
+CC/Fragrances,South America,Hair,Brand C,Soap,7648.180002527392,296.76216402674754
+CC/Fragrances,South America,Hair,Brand C,Perfume,3012.4378897119896,211.81042924509526
+CC/Fragrances,South America,Hair,Brand D,Shampoo,3526.4306364351846,347.44164996568804
+CC/Fragrances,South America,Hair,Brand D,Conditioner,2697.9750838594973,66.06446786870298
+CC/Fragrances,South America,Hair,Brand E,Soap,6534.110268443969,1657.3189856036988
+CC/Fragrances,South America,Hair,Brand E,Cream,6456.3997104174005,660.5883549472026
+CC/Fragrances,South America,Body,Brand A,Deodorant,7380.118658060016,308.59048507456765
+CC/Fragrances,South America,Body,Brand A,Body Wash,4899.194500210553,314.1985401347023
+CC/Fragrances,South America,Body,Brand B,Cream,7511.99851388256,529.7632653400735
+CC/Fragrances,South America,Body,Brand B,Deodorant,3811.8014743323874,160.44246855233166
+CC/Fragrances,South America,Body,Brand C,Conditioner,2252.0196592248344,120.5413918655236
+CC/Fragrances,South America,Body,Brand C,Lotion,2863.050686393458,76.91379927201541
+CC/Fragrances,South America,Body,Brand D,Body Wash,5317.443015417945,680.908648977048
+CC/Fragrances,South America,Body,Brand D,Soap,7418.9829699663105,515.7275173508281
+CC/Fragrances,South America,Body,Brand E,Lotion,4690.552936343977,779.4419890296226
+CC/Fragrances,South America,Body,Brand E,Soap,10859.623655348007,321.86802925303374
+CC/Fragrances,South America,Fragrance,Brand A,Soap,2715.611064432034,248.44352279801248
+CC/Fragrances,South America,Fragrance,Brand A,Cream,11111.079577531804,754.7539623584734
+CC/Fragrances,South America,Fragrance,Brand B,Conditioner,4751.266041377732,493.9308126670298
+CC/Fragrances,South America,Fragrance,Brand B,Perfume,9687.531322448041,1293.7395042202854
+CC/Fragrances,South America,Fragrance,Brand C,Cream,11881.644237378132,972.9447403291892
+CC/Fragrances,South America,Fragrance,Brand C,Soap,7461.25809335955,354.1244320870506
+CC/Fragrances,South America,Fragrance,Brand D,Conditioner,2383.0122569675705,441.662067699545
+CC/Fragrances,South America,Fragrance,Brand D,Perfume,14323.597960331683,1200.7714169728545
+CC/Fragrances,South America,Fragrance,Brand E,Cream,6576.2809369554925,456.92092226925786
+CC/Fragrances,South America,Fragrance,Brand E,Lotion,13732.546516521785,1146.034196960333
+CC/Fragrances,South America,Skincare,Brand A,Perfume,6328.056108520635,433.1201817387285
+CC/Fragrances,South America,Skincare,Brand A,Cream,4223.220531871329,251.3828263555618
+CC/Fragrances,South America,Skincare,Brand B,Soap,13668.257517958396,942.6349450096263
+CC/Fragrances,South America,Skincare,Brand B,Conditioner,7404.914754946956,493.06937871305337
+CC/Fragrances,South America,Skincare,Brand C,Deodorant,9267.854215354731,652.555411860281
+CC/Fragrances,South America,Skincare,Brand C,Lotion,2636.839451891854,194.17053927897942
+CC/Fragrances,South America,Skincare,Brand D,Perfume,9512.088229911806,626.9707187141981
+CC/Fragrances,South America,Skincare,Brand D,Cream,9347.8137356631,346.6771818592368
+CC/Fragrances,South America,Skincare,Brand E,Cream,6879.465440598998,250.42915898268686
+CC/Fragrances,South America,Skincare,Brand E,Deodorant,9275.881457413325,510.19769453875074
+CC/Fragrances,Africa,Hair,Brand A,Body Wash,7327.866961885046,306.2526716380387
+CC/Fragrances,Africa,Hair,Brand A,Shampoo,7804.241669950747,287.71433917009773
+CC/Fragrances,Africa,Hair,Brand B,Lotion,5889.4886719429705,319.47247282141996
+CC/Fragrances,Africa,Hair,Brand B,Conditioner,8867.309440358347,568.308751752926
+CC/Fragrances,Africa,Hair,Brand C,Shampoo,4102.93785815403,164.5835482153654
+CC/Fragrances,Africa,Hair,Brand C,Body Wash,4377.711028852272,505.2123842127405
+CC/Fragrances,Africa,Hair,Brand D,Cream,13982.207240650732,137.66180367237598
+CC/Fragrances,Africa,Hair,Brand D,Soap,14792.071222683868,235.89003310126057
+CC/Fragrances,Africa,Hair,Brand E,Shampoo,4113.750391119175,389.81823332676294
+CC/Fragrances,Africa,Hair,Brand E,Deodorant,4011.9896762276653,417.9710992382093
+CC/Fragrances,Africa,Body,Brand A,Soap,8181.578942977468,1767.305501458973
+CC/Fragrances,Africa,Body,Brand A,Cream,14852.4068384938,800.5349098628021
+CC/Fragrances,Africa,Body,Brand B,Deodorant,5358.193200972117,135.46218062778422
+CC/Fragrances,Africa,Body,Brand B,Body Wash,4564.894320390924,78.70940146790434
+CC/Fragrances,Africa,Body,Brand C,Conditioner,13781.430139016302,1082.1554008420612
+CC/Fragrances,Africa,Body,Brand C,Cream,6747.01561715454,853.328459265166
+CC/Fragrances,Africa,Body,Brand D,Shampoo,5459.231180861636,69.76989806284486
+CC/Fragrances,Africa,Body,Brand D,Deodorant,1353.6892335258917,70.71846134740422
+CC/Fragrances,Africa,Body,Brand E,Conditioner,3453.4504957015165,41.54531609334086
+CC/Fragrances,Africa,Body,Brand E,Soap,9094.790369148868,318.302470316461
+CC/Fragrances,Africa,Fragrance,Brand A,Deodorant,10410.287184788864,291.4267430716859
+CC/Fragrances,Africa,Fragrance,Brand A,Conditioner,2918.4421309898826,268.73991946619776
+CC/Fragrances,Africa,Fragrance,Brand B,Conditioner,10319.599779918706,603.9791918378404
+CC/Fragrances,Africa,Fragrance,Brand B,Body Wash,9723.08130913576,263.64279850747033
+CC/Fragrances,Africa,Fragrance,Brand C,Conditioner,3242.9050062390593,138.45316556076844
+CC/Fragrances,Africa,Fragrance,Brand C,Soap,8543.882081629474,162.44121891113278
+CC/Fragrances,Africa,Fragrance,Brand D,Shampoo,9626.26840626485,1574.2857296786597
+CC/Fragrances,Africa,Fragrance,Brand D,Perfume,12363.109277829788,831.324563717484
+CC/Fragrances,Africa,Fragrance,Brand E,Soap,8058.035534527196,661.0701422533273
+CC/Fragrances,Africa,Fragrance,Brand E,Deodorant,6150.38863729146,418.6807653317779
+CC/Fragrances,Africa,Skincare,Brand A,Conditioner,7144.315591254366,878.3095957570321
+CC/Fragrances,Africa,Skincare,Brand A,Lotion,9953.435548002224,1177.3674472194552
+CC/Fragrances,Africa,Skincare,Brand B,Cream,12564.633696034649,977.4681898039009
+CC/Fragrances,Africa,Skincare,Brand B,Conditioner,6266.945842882093,470.0458329441642
+CC/Fragrances,Africa,Skincare,Brand C,Body Wash,3585.192375160366,191.43442000294246
+CC/Fragrances,Africa,Skincare,Brand C,Lotion,10372.028959864881,352.00440622627264
+CC/Fragrances,Africa,Skincare,Brand D,Shampoo,8931.810331059864,177.72709501905828
+CC/Fragrances,Africa,Skincare,Brand D,Cream,9284.316101830122,227.83788678950623
+CC/Fragrances,Africa,Skincare,Brand E,Cream,3113.2088428674697,432.98654933913923
+CC/Fragrances,Africa,Skincare,Brand E,Perfume,7317.161350985452,875.2319040880254
+Hair/Body,North America,Hair,Brand A,Perfume,2912.9186066394986,197.84992713896108
+Hair/Body,North America,Hair,Brand A,Shampoo,11385.78396879723,485.91053653819824
+Hair/Body,North America,Hair,Brand B,Body Wash,2184.6707552636276,207.93575309385793
+Hair/Body,North America,Hair,Brand B,Soap,2904.9209665019816,172.46563490370087
+Hair/Body,North America,Hair,Brand C,Lotion,8619.053326128958,195.54812411959568
+Hair/Body,North America,Hair,Brand C,Perfume,9662.293469450988,559.4305848890792
+Hair/Body,North America,Hair,Brand D,Deodorant,7360.042127794856,525.1941518271854
+Hair/Body,North America,Hair,Brand D,Conditioner,3193.292992327008,115.97052807091652
+Hair/Body,North America,Hair,Brand E,Conditioner,2990.9770995287,280.5159358831094
+Hair/Body,North America,Hair,Brand E,Cream,4737.874506876568,545.2153286951016
+Hair/Body,North America,Body,Brand A,Soap,2640.0779701624606,178.39761860293817
+Hair/Body,North America,Body,Brand A,Perfume,8807.856221813681,1291.4910370319194
+Hair/Body,North America,Body,Brand B,Conditioner,11502.385800553713,682.6509935241999
+Hair/Body,North America,Body,Brand B,Cream,3269.1679298085596,191.2800172555648
+Hair/Body,North America,Body,Brand C,Deodorant,9463.496155803792,1908.2395768341235
+Hair/Body,North America,Body,Brand C,Shampoo,10110.25619123184,1516.734284483288
+Hair/Body,North America,Body,Brand D,Lotion,9746.083222827585,771.3782259944779
+Hair/Body,North America,Body,Brand D,Soap,1425.5078150075221,51.316223820147364
+Hair/Body,North America,Body,Brand E,Lotion,12345.063361081198,1168.6437630777957
+Hair/Body,North America,Body,Brand E,Deodorant,1858.3784477418776,114.69738704020942
+Hair/Body,North America,Fragrance,Brand A,Lotion,8071.901973896648,600.6239371039052
+Hair/Body,North America,Fragrance,Brand A,Soap,6650.207760784947,525.6212184126159
+Hair/Body,North America,Fragrance,Brand B,Deodorant,6194.546729008366,649.2317886838798
+Hair/Body,North America,Fragrance,Brand B,Shampoo,7774.476640162358,278.9564469999637
+Hair/Body,North America,Fragrance,Brand C,Shampoo,2120.7998635375516,47.50325971479067
+Hair/Body,North America,Fragrance,Brand C,Lotion,3981.332845443264,666.5761551652363
+Hair/Body,North America,Fragrance,Brand D,Soap,12095.019393897494,1122.779754593368
+Hair/Body,North America,Fragrance,Brand D,Body Wash,3936.309861421164,409.874405207058
+Hair/Body,North America,Fragrance,Brand E,Body Wash,4566.746979229675,275.97659948158554
+Hair/Body,North America,Fragrance,Brand E,Deodorant,10945.204723954274,391.5482660123955
+Hair/Body,North America,Skincare,Brand A,Soap,3047.910686802701,213.1535933444548
+Hair/Body,North America,Skincare,Brand A,Body Wash,13304.847736409853,697.8477206677759
+Hair/Body,North America,Skincare,Brand B,Deodorant,11176.794222692319,345.74568553955453
+Hair/Body,North America,Skincare,Brand B,Soap,10678.583812115861,330.388406694415
+Hair/Body,North America,Skincare,Brand C,Conditioner,2771.142135304565,183.0545921323978
+Hair/Body,North America,Skincare,Brand C,Lotion,10601.313245027992,320.5437257270848
+Hair/Body,North America,Skincare,Brand D,Perfume,7687.023123108357,462.4596862796608
+Hair/Body,North America,Skincare,Brand D,Cream,4234.216348819365,323.8666886541578
+Hair/Body,North America,Skincare,Brand E,Perfume,10184.827216397163,860.395201123319
+Hair/Body,North America,Skincare,Brand E,Body Wash,5831.314794889617,508.00635075632283
+Hair/Body,Europe,Hair,Brand A,Body Wash,11509.086602291467,416.5057925050823
+Hair/Body,Europe,Hair,Brand A,Deodorant,4105.040578867939,72.17901961759951
+Hair/Body,Europe,Hair,Brand B,Lotion,5359.907175552379,415.7847692655586
+Hair/Body,Europe,Hair,Brand B,Cream,1429.2567282048242,174.21754819911536
+Hair/Body,Europe,Hair,Brand C,Lotion,2542.9744416669637,192.31518015680854
+Hair/Body,Europe,Hair,Brand C,Conditioner,8219.264080226474,275.24708712932915
+Hair/Body,Europe,Hair,Brand D,Conditioner,6928.31272450263,970.458437930058
+Hair/Body,Europe,Hair,Brand D,Cream,4842.587220159373,267.47291140356054
+Hair/Body,Europe,Hair,Brand E,Shampoo,3340.506372005919,319.82324025803763
+Hair/Body,Europe,Hair,Brand E,Body Wash,2513.656190730177,113.89549909047635
+Hair/Body,Europe,Body,Brand A,Shampoo,7072.948674464774,930.3580016733081
+Hair/Body,Europe,Body,Brand A,Cream,7261.367677690181,61.32859865346229
+Hair/Body,Europe,Body,Brand B,Cream,1507.049226570528,52.57072676588092
+Hair/Body,Europe,Body,Brand B,Deodorant,7667.523548989573,242.65352671203144
+Hair/Body,Europe,Body,Brand C,Conditioner,10260.96025070081,280.2646294709032
+Hair/Body,Europe,Body,Brand C,Perfume,10158.621712905016,740.3644181437784
+Hair/Body,Europe,Body,Brand D,Conditioner,9762.242840485316,121.64902328482411
+Hair/Body,Europe,Body,Brand D,Cream,3013.1437071408304,106.61980018298878
+Hair/Body,Europe,Body,Brand E,Shampoo,11196.303012087474,1016.4511503918744
+Hair/Body,Europe,Body,Brand E,Body Wash,6118.7159414282705,678.7670140387904
+Hair/Body,Europe,Fragrance,Brand A,Shampoo,3459.9941662785095,169.63184983906604
+Hair/Body,Europe,Fragrance,Brand A,Lotion,8217.69495192626,468.5510922973662
+Hair/Body,Europe,Fragrance,Brand B,Soap,5364.921618896177,234.12512958704832
+Hair/Body,Europe,Fragrance,Brand B,Lotion,5646.926279175339,339.77998994065473
+Hair/Body,Europe,Fragrance,Brand C,Soap,2951.3994777404805,199.18803039550338
+Hair/Body,Europe,Fragrance,Brand C,Lotion,5617.270357964683,204.26280840880287
+Hair/Body,Europe,Fragrance,Brand D,Deodorant,6771.045448126594,378.1771396704503
+Hair/Body,Europe,Fragrance,Brand D,Shampoo,4601.36650425248,200.562264721472
+Hair/Body,Europe,Fragrance,Brand E,Perfume,5161.58848004409,195.4157140231121
+Hair/Body,Europe,Fragrance,Brand E,Deodorant,10154.599431077631,397.33776178160946
+Hair/Body,Europe,Skincare,Brand A,Shampoo,7722.694380824834,306.11346096655694
+Hair/Body,Europe,Skincare,Brand A,Lotion,2433.1792292133027,149.03980147714483
+Hair/Body,Europe,Skincare,Brand B,Conditioner,11348.92929071914,375.58346408599425
+Hair/Body,Europe,Skincare,Brand B,Deodorant,2217.2079065575363,102.36931496797276
+Hair/Body,Europe,Skincare,Brand C,Body Wash,3655.2415816208704,171.70713846215938
+Hair/Body,Europe,Skincare,Brand C,Cream,6400.479034332803,302.5716954985182
+Hair/Body,Europe,Skincare,Brand D,Shampoo,2822.8679624334736,449.5145763085168
+Hair/Body,Europe,Skincare,Brand D,Cream,3855.5465145182984,395.00948213481837
+Hair/Body,Europe,Skincare,Brand E,Conditioner,2511.973431203751,167.53708947450286
+Hair/Body,Europe,Skincare,Brand E,Soap,1566.9475998071716,34.90972695243353
+Hair/Body,Asia,Hair,Brand A,Shampoo,10315.87745769127,294.0074795963464
+Hair/Body,Asia,Hair,Brand A,Perfume,10936.722535594696,1622.8941327317739
+Hair/Body,Asia,Hair,Brand B,Soap,12211.369956132137,692.0052201223951
+Hair/Body,Asia,Hair,Brand B,Perfume,6359.408031092833,253.38681391264416
+Hair/Body,Asia,Hair,Brand C,Cream,6848.53552645428,209.02583149453332
+Hair/Body,Asia,Hair,Brand C,Body Wash,5242.492484941066,224.1495934508354
+Hair/Body,Asia,Hair,Brand D,Cream,10014.895313360676,1963.668420388991
+Hair/Body,Asia,Hair,Brand D,Conditioner,11005.380767619095,1721.5217147423657
+Hair/Body,Asia,Hair,Brand E,Cream,6080.499517465497,258.8187281367332
+Hair/Body,Asia,Hair,Brand E,Soap,1462.7439928937238,53.05136984713485
+Hair/Body,Asia,Body,Brand A,Body Wash,9711.285418523627,937.562284876243
+Hair/Body,Asia,Body,Brand A,Perfume,8095.75678974523,1223.1540743744984
+Hair/Body,Asia,Body,Brand B,Body Wash,2631.171693099443,178.77184503101327
+Hair/Body,Asia,Body,Brand B,Perfume,9515.243354457318,940.0909628325154
+Hair/Body,Asia,Body,Brand C,Cream,10788.808049491887,899.8100314439406
+Hair/Body,Asia,Body,Brand C,Shampoo,8995.02302525438,666.8629927846174
+Hair/Body,Asia,Body,Brand D,Perfume,4020.7631676486126,126.6856728506216
+Hair/Body,Asia,Body,Brand D,Conditioner,2538.63350081782,367.59675412057237
+Hair/Body,Asia,Body,Brand E,Deodorant,1838.9819627669106,72.83189181720833
+Hair/Body,Asia,Body,Brand E,Perfume,10483.66208557303,385.4939531692982
